@@ -1,7 +1,11 @@
 #Install COVID-19 Watch Out On Linux Server
+
 #CentOS Install Zip Unzip
+
 yum install zip unzip -y
+
 cd /var/www/html
+
 wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-full-setup.zip
 wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-update-verion2.1.zip
 wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-update-2.2.zip
