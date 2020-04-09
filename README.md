@@ -20,6 +20,8 @@ wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-update-2.5.zip
 
 wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-update-2.6.zip
 
+wget http://covid19.cbo.moph.go.th/covid19/downloads/covid-wo-update-2.7.zip
+
 unzip -o covid-wo-full-setup.zip
 
 unzip -o covid-wo-update-verion2.1.zip
@@ -33,6 +35,8 @@ unzip -o covid-wo-update-2.4.zip
 unzip -o covid-wo-update-2.5.zip
 
 unzip -o covid-wo-update-2.6.zip
+
+unzip -o covid-wo-update-2.7.zip
 
 #CHMOD
 
